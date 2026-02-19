@@ -5,10 +5,10 @@ The application recursively draws tangent circles inside a larger circle, creati
 
 ## Features
 -**Recursive generation of Apollonian gasket fractals**.
--**Adjustable recursion depth for different levels of detail**
-Centered and dynamically scaled rendering
-Lightweight GUI built with Java Swing
-Clean and easy-to-understand implementation of fractal geometry
+-**Adjustable recursion depth for different levels of detail**.
+Centered and dynamically scaled rendering.
+Lightweight GUI built with Java Swing.
+Clean and easy-to-understand implementation of fractal geometry.
 
 **Technologies Used**
 Java
