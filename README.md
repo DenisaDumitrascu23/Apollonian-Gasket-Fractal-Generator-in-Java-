@@ -3,7 +3,7 @@ This project is a Java-based graphical application that generates and visualizes
 
 The application recursively draws tangent circles inside a larger circle, creating a visually appealing fractal pattern. The recursion depth is configurable, allowing users to control the level of detail and complexity.
 
-##Features##
+##Features
 -**Recursive generation of Apollonian gasket fractals**
 -**Adjustable recursion depth for different levels of detail**
 Centered and dynamically scaled rendering
